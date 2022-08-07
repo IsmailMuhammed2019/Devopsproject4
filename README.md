@@ -60,10 +60,6 @@ You need Python 3 and a bash-like shell.
 
 This project uses [pytest](https://docs.pytest.org/en/latest/)
 
-### License
-
-[MIT](https://opensource.org/licenses/MIT)
-
 ### Author
 
 [Ismail Muhammed](https://ismailmuhammed2019.github.io/)

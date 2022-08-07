@@ -1,6 +1,6 @@
 # Machine Learning Microservice Application
 
-[![SKLearn](https://circleci.com/gh/neorusse/sklearn-k8s.svg?style=svg)](https://circleci.com/gh/neorusse/sklearn-k8s) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/IsmailMuhammed2019/Devopsproject4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/IsmailMuhammed2019/Devopsproject4/tree/main)
 
 ### Project Task
 

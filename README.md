@@ -1,6 +1,5 @@
 # Machine Learning Microservice Application
-
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/IsmailMuhammed2019/Devopsproject4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/IsmailMuhammed2019/Devopsproject4/tree/main)
+image:https://dl.circleci.com/status-badge/img/gh/IsmailMuhammed2019/Devopsproject4/tree/main.svg?style=svg["CircleCI", link="https://dl.circleci.com/status-badge/redirect/gh/IsmailMuhammed2019/Devopsproject4/tree/main"]
 
 ### Project Task
 
